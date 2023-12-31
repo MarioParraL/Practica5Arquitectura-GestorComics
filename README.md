@@ -38,6 +38,7 @@ Se esperan consultas GraphQL que permitan obtener información encadenada. Por e
 -  addComic
 -  deleteComic
 -  updateComic
+  
 **- Query:**
   -  usuarios
   -  usuario (by ID)
